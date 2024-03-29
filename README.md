@@ -14,7 +14,6 @@
 - [Step 3: Cleaning Data](#cleaning)
 - [Step 4: Storing Data](#storing)
 - [Step 5: Analyzing and Visualizing Data](#analyzing)
-- [Step 6: Reporting](#reporting)
 
 
 ## Installation<a name="installation"></a>
@@ -47,7 +46,7 @@ The steps in this project are as follows:
 -	[Step 3: Cleaning Data](#cleaning)
 -	[Step 4: Storing Data](#storing)
 -	[Step 5: Analyzing and visualizing Data](#analyzing)
--	[Step 6: Reporting](#reporting)
+
 
 ## Project Goal<a name="goal"></a>
 
@@ -104,6 +103,3 @@ Stored the cleaned master datafame in a CSV file named twitter_archive_master.cs
 
 Produced at least three insights and one visualization. 
 
-##  Step 6: Reporting<a name="reporting"></a>
-
-Created a 250-word-minimum written report called act_report.pdf that communicates all the insights and display the visualizations produced from my wrangled data. This is to be framed as an external document.
